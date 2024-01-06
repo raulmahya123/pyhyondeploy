@@ -6,7 +6,7 @@ from streamlit_extras.let_it_rain import rain
 
 # Directories and file paths
 THIS_DIR = Path(__file__).parent
-CSS_FILE = THIS_DIR / "style" / "style.css"
+CSS_FILE = THIS_DIR / "style" / "styles.css"
 ASSETS = THIS_DIR / "assets"
 LOTTIE_ANIMATION = ASSETS / "animation_holiday.json"
 
